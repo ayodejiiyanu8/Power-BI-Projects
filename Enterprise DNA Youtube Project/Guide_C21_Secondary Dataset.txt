@@ -1,0 +1,26 @@
+Secondary Dataset - EDNA YouTube Channel Data Analysis - Challenge 21 - 18th July 2022.
+
+This secondary set of data files contains 4 excel worksheets with different information about EDNA YouTube Channel. 
+Please note these are to be worked with, independently from the main file as there is not direct connection between files provided. My take is to use it as 
+disconnected tables from the main file.
+
+The zip file containing this data can be found in the challenge Brief under the name of "Secondary_Dataset_C21"
+
+These are;
+
+1. Cities
+2. Geography = Countries
+3. Viewer Age Ranges
+4. Viewer Gender
+
+The datasets are self-explantory. Any problems please do not hesitate to post a comment in the forum or linkedin group. See links below.
+
+
+Forum:
+
+https://forum.enterprisedna.co/t/challenge-21-enterprise-dna-youtube-channel-data-analysis/26626
+
+
+LinkedIn Group:
+
+https://www.linkedin.com/groups/14069197/
